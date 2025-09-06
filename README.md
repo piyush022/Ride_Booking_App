@@ -1,6 +1,7 @@
-# Ride Booking API
+# 🚖 Ride Booking API (Uber Clone Backend)
 
-A Node.js-based ride booking application with real-time features, job queues, and comprehensive error handling.
+A **Node.js-powered Ride Booking API** – an **Uber Clone backend** with real-time ride management, Redis queues, and MongoDB integration.  
+This project is ideal for learning or building **ride-sharing, taxi booking, and Uber-like apps** with robust **scalable architecture**.  
 
 ## Features
 
@@ -24,11 +25,12 @@ A Node.js-based ride booking application with real-time features, job queues, an
 - **Logging**: Morgan
 - **Environment**: dotenv
 
-## Prerequisites
+## ⚙️ Prerequisites
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (v14 or higher)  
+- [MongoDB](https://www.mongodb.com/)  
+- [Redis](https://redis.io/)  
 
-- Node.js (v14 or higher)
-- MongoDB
-- Redis
 
 ## Installation
 
